@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: url(/paint455.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+canvas{
+    background-color: white;
+}
+span{
+    color: blanchedalmond;
+    font-size: xx-large;
+}
+input{
+    height: 45px;
+    width: 200px;
+    font-size: xx-large;
+    color: black;
+}
